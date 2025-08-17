@@ -18,6 +18,7 @@ The implementation is contained in a single Jupyter Notebook:
 
 ---
 
+## ⚙️ Installation
 
 ### 1. Clone the repository
 ```bash
