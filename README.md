@@ -4,7 +4,7 @@ This repository contains the final project for **Big Data Analysis**, focusing o
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The project explores a global e-commerce dataset and applies data science techniques to extract insights and build predictive models. Key tasks include:
 
 - Data cleaning and preprocessing  
@@ -18,9 +18,9 @@ The implementation is contained in a single Jupyter Notebook:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/BigDataProject.git
-cd BigDataProject
+git clone https://github.com/aadi654/BigDataAnalysis_Project.git
+cd BigDataAnalysis_Project
